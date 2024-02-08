@@ -1,4 +1,3 @@
-
 /* Declare and initialize global variables
 -------------------------------------------------- */
 var pageBg = document.querySelector("html");
